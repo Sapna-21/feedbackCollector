@@ -7,7 +7,9 @@ const keys 	 		= require('./config/keys')
 require('./models/User')
 require('./services/passport')
 
-mongoose.connect(keys.mongoURI)
+mongoose.connect(keys.mongoURI, { useNewUrlParser : true, useUnifiedTopology : true } , (err) => {
+	console.log('Mongoose error ---------------------', err)
+})
 
 const app = express()
 

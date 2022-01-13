@@ -1,6 +1,6 @@
 # Emaily (Feedback Collector)
 
-Welcome to Emaily! I built this application for getting hands on experience on fullstack development in MERN stack.
+Welcome to Emaily! I built this application for getting hands on experience on fullstack development in MERN stack. The UI is not that good enough, since I wanted to focus on the functionality part of the web app.
 
 You can check out the application here - https://afternoon-beach-53955.herokuapp.com/
 

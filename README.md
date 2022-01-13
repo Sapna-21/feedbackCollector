@@ -1,8 +1,13 @@
 # Emaily (Feedback Collector)
 
-Welcome to Emaily! I built this application for getting hands on experience on fullstack development in MERN stack. The UI is not that good enough, since I wanted to focus on the functionality part of the web app.
+Welcome to Emaily! I built this application for getting hands on experience on fullstack web development in MERN stack. It's a course project on - Node with React : Fullstack Web Development by Stephen Grider on Udemy.
 
 You can check out the application here - https://afternoon-beach-53955.herokuapp.com/
+
+#### For Adding Credits use following card information - 
+Card number : 4242 4242 4242 4242
+<br> Exp month/year : Any future month/year
+<br> CVV   :  123 
 
 
 ## Users of the Web App
